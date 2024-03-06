@@ -133,6 +133,9 @@ hold additional secondary meetings later in the month.
    - [#1032](https://github.com/graphql/graphql-spec/pull/1032) - define "selection set" (already has 2 TSC approvals)
    - [#894](https://github.com/graphql/graphql-spec/pull/894) - clarify "before execution starts" still includes the "request error"s that can be raised in `ExecuteRequest()` (variable coercion failure; not exactly one subscription field assertion failure)
    - [#1069](https://github.com/graphql/graphql-spec/pull/1069) - enforce consistent punctuation in the spec (with CI check)
+1. Strict error paths (5min, Martin)
+   - [#1073](https://github.com/graphql/graphql-spec/pull/1073) - Be strict about error paths format
 1. String literal aliases proposal (15m, Curtis, Matt)
    - [#1082](https://github.com/graphql/graphql-spec/pull/1082) - Proposed spec changes for string literal aliases
    - [#4023](https://github.com/graphql/graphql-js/pull/4023) - Add parser support for string literal aliases
+

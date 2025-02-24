@@ -19,8 +19,13 @@ they first sign the [Specification Membership Agreement](./membership) or belong
 to an organization which has signed.
 
 This repository holds [agendas](./agendas) and [notes](./notes) for all meetings
-past and upcoming as well as [shared rfc documents](./rfcs). Anyone may edit an
-upcoming event's agenda to _attend_ or _propose an agenda item_.
+past and upcoming as well as [shared rfc documents](./rfcs).
+
+Anyone may edit an upcoming event's agenda to _attend_ or _propose an agenda item_.
+
+Anyone may submit a new RFC or a pull request to an existing RFC. While the
+discussion is collegial, RFC champions are utlimately responsible to review and
+merge pull requests to their respective RFC.
 
 All meetings occur via video conference, however participating company offices
 are welcome to host guests.
